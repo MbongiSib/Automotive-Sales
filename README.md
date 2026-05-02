@@ -1,2 +1,2 @@
-# Automotive_Sales
+# Automotive-Sales
 Project focused on Data modeling of car sales
